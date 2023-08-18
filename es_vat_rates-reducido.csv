@@ -1,0 +1,7 @@
+Country Code,State Code,ZIP/Postcode,City,Rate %,Tax Name,Priority,Compound,Shipping,Tax Class
+,,,,21,IVA 21%,1,0,1,
+ES,,,,21,IVA 21%,1,0,1,
+ES,CE,,,0,SIN IVA,1,0,1,
+ES,GC,,,0,SIN IVA,1,0,1,
+ES,ML,,,0,SIN IVA,1,0,1,
+ES,TF,,,0,SIN IVA,1,0,1,
